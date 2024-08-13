@@ -17,7 +17,7 @@ Clone the repo and run `go build`. This will create an executable file with name
 
     ex.: `./todo create todo2` - Single todo
     
-    This will create **data** folder in the root and create two text files with the given names.
+    This will create **data** folder in the root and create text files with the given names.
 2. To list the todo's, run the following command:
     ```bash
     ./todo list
